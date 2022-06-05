@@ -8,6 +8,6 @@
 
 | Problem No. | Problem Name |                  Problem Link                  |      Solution Link       | Difficulty  |
 | :---------: | :----------- | :--------------------------------------------: | :----------------------: | :---------: |
-|      1      | `Two Sum`    | [Link](https://leetcode.com/problems/two-sum/) | [Link](Arrays\TwoSum.md) | <b>EASY</b> |
+|      1      | `Two Sum`    | [Link](https://leetcode.com/problems/two-sum/) | [Link](Arrays/TwoSum.md) | <b>EASY</b> |
 |      2      |              |                                                |                          |             |
 |      3      |              |                                                |                          |             |
